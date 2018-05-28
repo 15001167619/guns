@@ -9,6 +9,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * SpringBoot方式启动类
  *
  * @author stylefeng
+ * admin/111111
  * @Date 2017/5/21 12:06
  */
 @SpringBootApplication
